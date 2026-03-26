@@ -1,0 +1,72 @@
+## 📅 Date: 2026-03-25  
+## 📘 What I Learned Today  
+
+### 1. Prompt Engineering
+### chapter4 Summarization & Extraction  
+
+### (1) Summarization  
+
+**Definition:**  
+LLMs can summarize text (e.g., reviews, papers, reports) with customizable focus.  
+
+**Insight:**  
+Summarization is not just shortening text — it is **controlled compression of information**. 
+**Example Use Case:**  
+- Summarizing academic papers  
+- Condensing product reviews  
+- Highlighting key findings in reports  
+
+### (2) Information Extraction  
+
+**Definition:**  
+LLMs can extract targeted or structured information from unstructured text.  
+
+**Insight:**  
+Extraction transforms **text into structured data**, which is essential for data analysis and empirical research.  
+
+**Example Use Case:**  
+- Extracting sentiment from reviews  
+- Identifying key variables from reports  
+- Converting text into datasets for econometric analysis  
+### (3) Why This Matters for Research  
+
+LLMs enable scalable analysis of large-scale text data, such as:  
+- News articles  
+- Policy documents  
+- Corporate disclosures  
+
+These techniques are especially useful in economics for text-based empirical research.  
+
+---
+
+### ✅ Key Takeaway  
+
+- Summarization = compress information  
+- Extraction = structure information  
+
+👉 LLMs help convert **text → knowledge → data**
+
+
+### Chapter 5: Inferring  
+
+LLMs can perform various inference tasks based on text data:
+
+1. **Sentiment Analysis**  
+   - Classify overall sentiment (e.g., positive, negative, neutral)  
+
+2. **Emotion Classification**  
+   - Identify specific emotions (e.g., anger, happiness, sadness)  
+
+3. **Topic Analysis**  
+   - Detect main topics or themes in the text  
+
+4. **Information Extraction**  
+   - Extract relevant or structured information from text  
+
+5. **Alert Generation / Signal Detection**  
+   - Identify important signals or generate alerts based on specific conditions  
+
+---
+**Application:**  
+These inference tasks are useful for analyzing large-scale text data such as  
+news, policy documents, and firm disclosures in empirical economics.
